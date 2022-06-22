@@ -342,7 +342,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>BIDDI</title>
+        <title>J&G</title>
       </Head>
       <Header isConnected={true} />
       <Container>
