@@ -5,6 +5,12 @@
     "name": "Solana",
     "imgURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
   },
+{
+    "symbol": "JOE",
+    "address": "11111111111111111111111111111111",
+    "name": "Joe Ganteng",
+    "imgURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+  },
   {
     "symbol": "WSOL",
     "address": "So11111111111111111111111111111111111111112",
